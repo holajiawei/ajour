@@ -1,0 +1,15 @@
+name: "Example"
+palette:
+  base:
+    background: '#6d6875'
+    foreground: '#777180'
+  normal:
+    primary: '#664A50'
+    secondary: '#855859'
+    surface: '#C9A28D'
+    error: '#661A1F'
+  bright:
+    primary: '#b4838d'
+    secondary: '#e5989b'
+    surface: '#fecdb2'
+    error: '#e63a46'
